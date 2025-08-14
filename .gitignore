@@ -1,0 +1,11 @@
+# Compiled files
+*.class
+bin/
+# IDE files
+.vscode/
+.settings/
+.classpath
+.project
+
+# Autosaves
+**/autosave/
