@@ -8,6 +8,15 @@ A dual-version Java Notepad clone built using Swing GUI. Includes **Basic** and 
 - **Basic Notepad:** [Watch Demo](https://streamable.com/jeg7x0)  
 
 ---
+### 🖼️ Screenshots
+
+**Basic Notepad**
+![Basic-Notepad](screenshots/Notepad-Basic)
+
+**Advanced Notepad**
+![Advanced-Notepad](screenshots/Notepad-Advanced)
+
+---
 ## 🚀 Features
 
 ### Basic Notepad
